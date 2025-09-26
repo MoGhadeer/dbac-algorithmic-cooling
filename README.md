@@ -67,7 +67,7 @@ For the DBAC experiments described in our manuscript, LeeQ was used as the **con
 3. Acquire and process raw measurement counts for Pauli Transfer Matrix (PTM) tomography.  
 4. Interface with theoretical modules to benchmark observed results against simulated DBAC dynamics.  
 
-LeeQ was originally developed by [Quantum Superconducting Circuits Research Group](https://leeklab.org/) at the University of Oxford.  
+LeeQ was originally developed by [Quantum Superconducting Circuits Research Group](https://www.physics.ox.ac.uk/research/theme/quantum-information-and-computation) at the University of Oxford.  
 Its modular design ensures that future DBAC-related experiments and other multi-qubit protocols can be implemented with minimal overhead.
 
 ---
