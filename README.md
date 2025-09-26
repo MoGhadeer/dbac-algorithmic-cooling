@@ -38,4 +38,16 @@ We experimentally demonstrate DBAC on a 16-qubit superconducting lattice, showin
 
 ---
 
-## Repository Layout
+## Citation
+
+If you use this repository, please cite as: 
+  author       = {Mohammed Alghadeer and Khanh Uyen Giang and Shuxiang Cao and
+                  Simone D. Fasciati and Michele Piscitelli and Nelly Ng and
+                  Peter J. Leek and Marek Gluza and Mustafa Bakr},
+  title        = {Double-Bracket Algorithmic Cooling (DBAC): code and data},
+  year         = {2025},
+  publisher    = {GitHub},
+  journal      = {GitHub repository},
+  howpublished = {\url{https://github.com/MoGhadeer/dbac-algorithmic-cooling}},
+  version      = {v1.0.0}
+}
